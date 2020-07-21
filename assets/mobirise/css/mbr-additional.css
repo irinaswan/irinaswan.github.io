@@ -734,10 +734,20 @@ section.lazy-placeholder:after {
 }
 .cid-s46eAnaZ2d .mbr-text,
 .cid-s46eAnaZ2d .mbr-section-btn {
-  color: #c1c1c1;
+  color: #ffffff;
+  text-align: center;
 }
 .cid-s46eAnaZ2d H3 {
   color: #c1c1c1;
+}
+.cid-s5ps1JMvZn {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/artboard-112x.png");
+}
+.cid-s5ps1JMvZn .mbr-text,
+.cid-s5ps1JMvZn .mbr-section-btn {
+  text-align: center;
 }
 .cid-s48ESXQ04M {
   padding-top: 45px;
